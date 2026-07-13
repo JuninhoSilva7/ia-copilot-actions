@@ -1,3 +1,5 @@
+[![Node.js CI](https://github.com/JuninhoSilva7/ia-copilot-actions/actions/workflows/node.yml/badge.svg)](https://github.com/JuninhoSilva7/ia-copilot-actions/actions/workflows/node.yml)
+
 # IA na prática: Acelerando o desenvolvimento e garantindo a qualidade com GitHub Copilot e GitHub Actions
 
 Este projeto foi desenvolvido como atividade acadêmica com o objetivo de demonstrar como ferramentas de Inteligência Artificial podem acelerar o desenvolvimento de software sem comprometer a qualidade. Para isso, foi utilizado o GitHub Copilot para auxiliar na geração de código e testes automatizados, enquanto o GitHub Actions foi empregado para automatizar a execução desses testes sempre que novas alterações são enviadas ao repositório.
